@@ -51,6 +51,7 @@ This will create or edit the ~/.cursor/mcp.json file with your MCP server config
 }
 ```
 
+
 **Note: You can set your Jenkins token to password too!**
 
 #### VSCode Copilot Chat
